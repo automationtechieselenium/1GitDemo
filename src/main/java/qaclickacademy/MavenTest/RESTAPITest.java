@@ -9,10 +9,8 @@ public class RESTAPITest {
 		System.out.println(" postJira");
 		System.out.println(" postJira2");
 		System.out.println(" postJira3");
-		System.out.println(" postJira 4");
-		System.out.println(" postJira 5 ");
-		System.out.println(" postJira 6");
-		
+		System.out.println(" postJira10");
+		System.out.println(" postJira36");
 	}
 	@Test
 	public void deleteTwitter()
